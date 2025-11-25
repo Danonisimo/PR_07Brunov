@@ -23,7 +23,7 @@ namespace PR_07Brunov
         }
 
        
-
+        //починил
         private void button1_Click_1(object sender, EventArgs e)
         {
             MessageBox.Show("Брунов Даниил");
