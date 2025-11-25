@@ -69,5 +69,15 @@ namespace PR_07Brunov.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _860415_christmas_holiday_seasonal_new_year {
+            get {
+                object obj = ResourceManager.GetObject("860415-christmas-holiday-seasonal-new-year", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

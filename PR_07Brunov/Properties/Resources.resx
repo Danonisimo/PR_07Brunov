@@ -121,4 +121,7 @@
   <data name="5b585f41a380b6583d46b952" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\5b585f41a380b6583d46b952.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="860415-christmas-holiday-seasonal-new-year" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\860415-christmas-holiday-seasonal-new-year.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

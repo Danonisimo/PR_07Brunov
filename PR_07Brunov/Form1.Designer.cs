@@ -58,11 +58,12 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "Администратор";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::PR_07Brunov.Properties.Resources._5b585f41a380b6583d46b952;
-            this.pictureBox1.Location = new System.Drawing.Point(228, 257);
+            this.pictureBox1.Location = new System.Drawing.Point(229, 228);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(265, 177);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
